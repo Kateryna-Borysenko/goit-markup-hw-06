@@ -502,7 +502,7 @@ textarea {
 }
 .subscription button {
   display: inline-flex;
-  padding: 9px 28px 5px 28px;
+  padding: 9px 28px 4px 28px;
 }
 .subscription span {
   display: inline-block;
